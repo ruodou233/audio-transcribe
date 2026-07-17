@@ -1,0 +1,11 @@
+# 本机配置（含私人路径/账户信息），永不提交
+local-config.md
+
+# 转写产物与临时音频
+*.wav
+*.mp3
+*.m4a
+*.flac
+transcripts/
+output/
+*.tmp
