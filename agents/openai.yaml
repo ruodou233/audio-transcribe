@@ -1,4 +1,4 @@
 interface:
   display_name: "音频转文字"
-  short_description: "按质量、结构、成本与隐私要求选择并验收音视频转写方案"
-  default_prompt: "使用 $audio-transcribe 把这段音频转成带说话人和时间戳的可靠文字稿。"
+  short_description: "按输出、支出、验收与隐私要求动态选择并验收转写管线"
+  default_prompt: "使用 $audio-transcribe 根据我的输出要求、支出策略、隐私限制和当前可用能力，为这段音频选择并执行合适的转写方案。"
