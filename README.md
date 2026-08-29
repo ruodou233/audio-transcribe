@@ -73,6 +73,17 @@ git clone https://github.com/ruodou233/audio-transcribe.git ~/.codex/skills/audi
 
 安装后可以直接说：“把这个播客转成带说话人和时间戳的校验稿，零新增 API 费优先。”
 
+## 反馈与作者
+
+这个 skill 我长期维护。如果你有修改方案、发现问题、或者改出了更好的版本，欢迎通过以下任一渠道找到我：
+
+- GitHub：本仓库提 issue 或 PR
+- 小红书：错误乱码
+- 微信公众号：能工智人错误乱码
+- B站：若逗道人
+
+完整目录见 [GitHub 主页](https://github.com/ruodou233)。
+
 ## License
 
 MIT
