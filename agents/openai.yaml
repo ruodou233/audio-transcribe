@@ -1,4 +1,4 @@
 interface:
   display_name: "音频转文字"
-  short_description: "按输出、支出、验收与隐私要求动态选择并验收转写管线"
-  default_prompt: "使用 $audio-transcribe 根据我的输出要求、支出策略、隐私限制和当前可用能力，为这段音频选择并执行合适的转写方案。"
+  short_description: "本机能转就立即开工，并行查询中文榜单和免费方案"
+  default_prompt: "使用 $audio-transcribe 立即用当前电脑可执行的方案转写；不要等待市场调研，交付后再补充有免费额度、完全免费和高质量的其他选择。"
