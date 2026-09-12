@@ -1,4 +1,6 @@
-# audio-transcribe — 音频转文字 Skill
+# 普通话音视频转文字｜Mandarin Speech-to-Text
+
+Transcribe Mandarin recordings, podcasts, meetings, and videos with speaker labels, timestamps, subtitles, and transcript review.
 
 ## 这是什么
 
