@@ -19,7 +19,7 @@ Transcribe Mandarin recordings, podcasts, meetings, and videos with speaker labe
 
 1. 先看手头是否已经有文字稿或字幕。
 2. 读取已有的 `local-config.md`；没有就轻量探测当前电脑。
-3. 有可执行管线就立即派子代理转写，不等待联网选型。
+3. 有可执行管线就立即开始转写，不等待联网选型。
 4. 普通话准确率榜、稳定评测集和官方免费额度并行查询。
 5. 先交付文字稿，再补充有免费额度、完全免费和高质量的其他方案。
 
