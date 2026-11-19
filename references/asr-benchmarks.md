@@ -6,7 +6,7 @@
 |---|---|---|
 | 普通话专业领域、热词与复杂真实音频 | https://github.com/SpeechColab/GigaSpeechBench | 中文垂直领域 CER / B-CER |
 | 普通话网络内容、播客、远场会议 | https://github.com/wenet-e2e/WenetSpeech | TEST_NET / TEST_MEETING |
-| 普通话新闻、访谈、直播、播客、演讲 | https://github.com/SpeechColab/Leaderboard | 对应 SpeechIO 中文场景 |
+| 普通话新闻、访谈、直播、播客、演讲 | https://github.com/SpeechColab/Leaderboard（2025-03 后停更，只有当时的商用 API） | 对应 SpeechIO 中文场景 |
 
 先选与素材最接近的场景，再比较同一测试集、同一模式下的普通话 CER。榜单用于校准现成管线和发现更优候选；本机已有方案能完成任务时，不等待榜单查询才开始转写。
 

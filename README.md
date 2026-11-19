@@ -41,11 +41,11 @@ git clone https://github.com/ruodou233/audio-transcribe.git ~/.claude/skills/aud
 Codex：
 
 ```bash
-mkdir -p ~/.codex/skills
-git clone https://github.com/ruodou233/audio-transcribe.git ~/.codex/skills/audio-transcribe
+mkdir -p ~/.agents/skills
+git clone https://github.com/ruodou233/audio-transcribe.git ~/.agents/skills/audio-transcribe
 ```
 
-或通过 [agentops-skills](https://github.com/ruodou233/agentops-skills) 安装整套 Skill。
+也可以 `npx skills add ruodou233/audio-transcribe -g`；其他 skill 见 [agentops-skills](https://github.com/ruodou233/agentops-skills) 目录。
 
 安装后可以直接说：“把这个播客转成带说话人和时间戳的文字稿。”
 
